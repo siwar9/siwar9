@@ -7,7 +7,7 @@
 
 - 💻 I’m hoping to work in the upcoming future on **DevOps projects**
 
-- 🤝 I’m always available for part-time jobs or collaboration projects [Feel free to contact me on my email](ayedsiwar16@outlook.com)
+- 🤝 I’m always available for part-time jobs or collaboration projects [Feel free to contact me on my email](mailto : ayedsiwar16@outlook.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/siwar9](https://github.com/siwar9)
 
