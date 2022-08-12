@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **Platform Engineer and SRE intern for Just K8s**
 
-- 🌱 I’m currently an engineering student in **ICT : Cybersecurity**
+- 🌱 I’m currently an engineering student specialized in **ICT : Cybersecurity**
 
 - 💻 I’m hoping to obtain **CKA** in the upcoming future 
 
