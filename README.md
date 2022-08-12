@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working as a **Platform Engineer and SRE intern for Just K8s**
 
-- 🌱 I’m currently enrolled in a **IT Support Professional Specialization by Google on Coursera**
+- 🌱 I’m currently an engineering student in **ICT : Cybersecurity**
 
-- 💻 I’m hoping to work in the upcoming future on **DevOps projects**
+- 💻 I’m hoping to obtain **CKA** in the upcoming future 
 
 - 🤝 I’m always available for part-time jobs or collaboration projects
 
-- 💬 Ask me about **Linux, System Administration, Computer Networking, Security, Programming languages, Guitar tricks**
+- 💬 Ask me about **DevOps, Kubernetes, Linux, System Administration, Computer Networking, Security, Programming, or Guitar tricks 🎸**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1x7rR3bvQ-5FMWtG4fzQI3FFRAWxQPKpb-mBSJqokkfc/edit?usp=sharing](https://docs.google.com/document/d/1x7rR3bvQ-5FMWtG4fzQI3FFRAWxQPKpb-mBSJqokkfc/edit?usp=sharing)
 
