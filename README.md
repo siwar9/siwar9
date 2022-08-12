@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siwar</h1>
 <h3 align="center">An ICT engineering student from Tunisia!</h3>
 
-- 🔭 I’m currently working on **a final year project around cloud computing and iot**
+- 🔭 I’m currently working as a **Platform Engineer and SRE intern for Just K8s**
 
 - 🌱 I’m currently enrolled in a **IT Support Professional Specialization by Google on Coursera**
 
@@ -9,11 +9,7 @@
 
 - 🤝 I’m always available for part-time jobs or collaboration projects
 
-- 👨‍💻 All of my projects are available at [https://github.com/siwar9](https://github.com/siwar9)
-
 - 💬 Ask me about **Linux, System Administration, Computer Networking, Security, Programming languages, Guitar tricks**
-
-- 📫 How to reach me **ayedsiwar16@outlook.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1x7rR3bvQ-5FMWtG4fzQI3FFRAWxQPKpb-mBSJqokkfc/edit?usp=sharing](https://docs.google.com/document/d/1x7rR3bvQ-5FMWtG4fzQI3FFRAWxQPKpb-mBSJqokkfc/edit?usp=sharing)
 
