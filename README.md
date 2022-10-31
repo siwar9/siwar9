@@ -10,7 +10,6 @@
 - 🤝 I’m always available for part-time jobs or collaboration projects
 
 - 💬 Ask me about **DevOps, Kubernetes, Linux, System Administration, Computer Networking, Security, Programming, or Guitar tricks 🎸🔥**
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
