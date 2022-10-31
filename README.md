@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Siwar</h1>
 <h3 align="center">An ICT engineering student from Tunisia!</h3>
 
-- 🔭 I’m currently working as a **Platform Engineer and SRE intern for Just K8s**
+- 🔭 Currently working as a **Part-time Platform Engineer for Just K8s**
 
-- 🌱 I’m currently an engineering student specialized in **ICT : Cybersecurity**
+- 🌱 Also, I'm an engineering student specialized in **ICT : Cybersecurity** and lookign for an end-of-studies internship starting from February 🤓!
 
-- 💻 I’m hoping to obtain **CKA** in the upcoming future 
+- 💻 I’m hoping to obtain ✨**CKA**✨ in the upcoming future 
 
 - 🤝 I’m always available for part-time jobs or collaboration projects
 
-- 💬 Ask me about **DevOps, Kubernetes, Linux, System Administration, Computer Networking, Security, Programming, or Guitar tricks 🎸**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1x7rR3bvQ-5FMWtG4fzQI3FFRAWxQPKpb-mBSJqokkfc/edit?usp=sharing](https://docs.google.com/document/d/1x7rR3bvQ-5FMWtG4fzQI3FFRAWxQPKpb-mBSJqokkfc/edit?usp=sharing)
+- 💬 Ask me about **DevOps, Kubernetes, Linux, System Administration, Computer Networking, Security, Programming, or Guitar tricks 🎸🔥**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
