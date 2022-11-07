@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siwar</h1>
-<h3 align="center">An ICT engineering student from Tunisia!</h3>
+<h3 align="center">SRE/Platform Eng/DevOps Eng and all things Kubernetes!</h3>
 
 - 🔭 Currently working as a **Part-time Platform Engineer for Just K8s**
 
